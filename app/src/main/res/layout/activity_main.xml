@@ -73,7 +73,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/dlugoscZ"
+        android:hint="@string/dlugoscZ"
         android:id="@+id/ileZnakow"
         android:inputType="number"
         />

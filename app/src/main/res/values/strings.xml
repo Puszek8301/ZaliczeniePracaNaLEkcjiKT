@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">ZadanieZaliczenioweKT30</string>
+    <string name="daneP">Dane pracownika</string>
+    <string name="Imie">Imię</string>
+    <string name="Nazwisko">Nazwisko</string>
+    <string name="stanowisko">Stanowisko</string>
+    <string name="generowanieHa">Generowanie Hasła</string>
+    <string name="dlugoscZ">Ile znaków</string>
+    <string name="litery">Małe i wielkie litery</string>
+    <string name="cyfry">Cyfry</string>
+    <string name="znakiSpecjalne">Znaki specjalne</string>
+    <string name="generujH">Generuj hasło</string>
+    <string name="zatwierdz">Zatwierdź</string>
+
+
+
 </resources>

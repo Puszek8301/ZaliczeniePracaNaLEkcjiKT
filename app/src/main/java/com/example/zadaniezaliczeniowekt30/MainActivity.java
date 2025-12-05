@@ -14,6 +14,8 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import java.util.Scanner;
+
 public class MainActivity extends AppCompatActivity {
 
     EditText poleImie, poleNazwisko, poleIleZnakow;
@@ -52,7 +54,10 @@ public class MainActivity extends AppCompatActivity {
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         listaStanowisko.setAdapter(adapter);
 
+        przyciskGeneruj.setOnClickListener(view -> {
 
+
+        });
 
 
         przyciskZatwierdz.setOnClickListener(view -> {
